@@ -14,7 +14,7 @@
     "^\\.[^/]+",
     "/\\.[^/]+",
     "^(.+)\\.(md|svg|png|reg|gif)",
-    "^fonts(/.*)?",
+    "^(fonts|WinApps-Launcher)(/.*)?",
     "apps/access/info",
     "apps/access-o365-x86/info",
     "apps/access-x86/info",
